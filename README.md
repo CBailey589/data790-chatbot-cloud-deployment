@@ -60,7 +60,7 @@ requirements.txt
   - Container App Environment: cae-data790-fall26
   - Port: 8000
   - CPU / Memory: 0.5 CPU / 1 GiB
-  - Scaling: 0-1 replicas
+  - Scaling: 0-2 replicas
 - Deploy the MLFlow container app:
   - Container App: mlflow-connorb
   - Resource Group: rg-primary-unc-sdss-pilot-data-790-fall-26
