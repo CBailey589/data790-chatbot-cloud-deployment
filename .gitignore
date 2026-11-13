@@ -1,3 +1,7 @@
 .env
 .venv/
 __pycache__/
+mlartifacts/
+mlflow.db
+k8s/
+deployment.zip
