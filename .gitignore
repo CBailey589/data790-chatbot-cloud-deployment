@@ -5,3 +5,4 @@ mlartifacts/
 mlflow.db
 k8s/
 deployment.zip
+settings.json
